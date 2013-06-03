@@ -5,5 +5,8 @@
 richard/settings_local.py
 venv
 whoosh_index
+build
+dist
+*.egg-info
 
 docs/_build/
