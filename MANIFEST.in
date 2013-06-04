@@ -1,2 +1,4 @@
 include *.rst
 global-include *.html
+global-include *.css
+global-include *.js
